@@ -10,14 +10,14 @@ const Projects = () => {
   const projectJson = [
     {
       title: 'Portfolio',
-      desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
+      desc: 'This portfolio website is built with React to demonstrate my expertise in front-end development. It includes my bio, projects, providing a polished view of my capabilities.',
       image: Portfolio,
       live: 'https://mohitportfoliousingreact.netlify.app/',
       github: 'https://github.com/mohit01110/mohitPortfolioUsingReact',
     },
     {
       title: 'Focus on Today',
-      desc: 'Set and track your daily goals to maintain clarity and productivity.Break your tasks into manageable steps for better time management.',
+      desc: 'Set and track your daily goals to maintain clarity and productivity.Break your tasks into manageable steps for better time management.Break your tasks into manageable steps.',
       image: SpicyBites,
       live: 'https://todos-list-applications.netlify.app/',
       github: 'https://github.com/rohitsingh93300/YtSpicyBites',
