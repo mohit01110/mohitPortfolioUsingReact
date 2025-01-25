@@ -1,6 +1,6 @@
 # My Portfolio
 
-Live Link : https://mohitportfoliousingreact.netlify.app/
+Live Link : [https://mohitportfoliousingreact.netlify.app/](https://mohitportfoliousingreact.netlify.app/){:target="_blank"}
 
 I have created a portfolio using **React.js**, where I focused on building a clean and responsive user interface. For styling, I utilized **Tailwind CSS**, a utility-first CSS framework that allowed me to quickly design custom layouts and ensure a seamless user experience across different devices. Tailwind's flexibility helped me create a modern and polished look while maintaining high performance.
 
