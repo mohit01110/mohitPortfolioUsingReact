@@ -23,11 +23,11 @@ const Projects = () => {
       github: 'https://github.com/rohitsingh93300/YtSpicyBites',
     },
     {
-      title: 'YouTube Clone',
-      desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+      title: 'E-Auction',
+      desc: 'A secure platform for online bidding, allowing users to buy and sell products through real-time competitive auctions.',
       image: Youtube,
       live: 'https://youtube-clone-93300.netlify.app/',
-      github: 'https://github.com/rohitsingh93300/YouTube-clone',
+      github: 'https://github.com/sjethani1994/auction',
     },
     {
       title: 'Webelite builder',
