@@ -40,9 +40,9 @@ const About = () => {
                   I started my journey in web development with a passion for
                   creating intuitive and scalable applications. With proficiency
                   in the MERN stack specially in FrontEnd, I have built Projects
-                  such as a Project1, Project2, Project3. My projects
-                  demonstrate my ability to integrate poweful backend solutions
-                  with sleek, user-friendly frontend designs.
+                  such as a Portfolio, E-Auction Website, SuperCars Website. My
+                  projects demonstrate my ability to integrate poweful backend
+                  solutions with sleek, user-friendly frontend designs.
                 </p>
                 <img
                   src={MernStack}
@@ -110,7 +110,8 @@ const About = () => {
             <p className="mt-4 text-lg text-gray-600">
               Apart from coding, I am passionate about learning new technologies
               and keeping myself up-to-date with the latest trends in web
-              development. I believe in helping others dive deep into the world of programming and technology.
+              development. I believe in helping others dive deep into the world
+              of programming and technology.
             </p>
           </div>
         </div>

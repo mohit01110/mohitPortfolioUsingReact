@@ -104,7 +104,7 @@ const Testimonials = () => {
                       <h3 className="font-semibold text-red-500 text-lg">
                         {item.name}
                       </h3>
-                      <p className="text-sm mt-1">CEO, Webelite Builders</p>
+                      <p className="text-sm mt-1">CEO, Website Company</p>
                     </div>
                     <Quote className="text-red-400" />
                   </div>
