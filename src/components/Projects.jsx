@@ -25,15 +25,15 @@ const Projects = () => {
       title: 'SM-Auction',
       desc: 'A secure platform for online bidding, allowing users to buy and sell products through real-time competitive auctions.',
       image: Youtube,
-      live: 'https://youtube-clone-93300.netlify.app/',
+      live: 'https://sm-auction.vercel.app/',
       github: 'https://github.com/sjethani1994/auction',
     },
     {
       title: 'Super Car',
-      desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+      desc: 'Explore the world’s finest supercars with stunning designs, unmatched performance, and cutting-edge technology. Your dream ride awaits!',
       image: Supercar,
-      live: 'https://supercar123.netlify.app/',
-      github: 'https://github.com/rohitsingh93300/supercars',
+      live: 'https://supercar911.netlify.app/',
+      github: 'https://github.com/mohit01110/SuperCars-Website',
     },
   ]
 
