@@ -22,7 +22,7 @@ const Projects = () => {
       github: 'https://github.com/rohitsingh93300/YtSpicyBites',
     },
     {
-      title: 'E-Auction',
+      title: 'SM-Auction',
       desc: 'A secure platform for online bidding, allowing users to buy and sell products through real-time competitive auctions.',
       image: Youtube,
       live: 'https://youtube-clone-93300.netlify.app/',
