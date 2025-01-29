@@ -2,7 +2,6 @@ import React from 'react'
 import Portfolio from '../assets/Portfolio.png'
 import SpicyBites from '../assets/SpicyBites.png'
 import Youtube from '../assets/Youtube.png'
-import Webelite from '../assets/Webelite.png'
 import Supercar from '../assets/Supercar.png'
 import Cards from './Cards'
 
@@ -28,13 +27,6 @@ const Projects = () => {
       image: Youtube,
       live: 'https://youtube-clone-93300.netlify.app/',
       github: 'https://github.com/sjethani1994/auction',
-    },
-    {
-      title: 'Webelite builder',
-      desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
-      image: Webelite,
-      live: 'https://www.webelitebuilders.com/',
-      github: '#',
     },
     {
       title: 'Super Car',
