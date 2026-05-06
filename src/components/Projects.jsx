@@ -3,6 +3,7 @@ import Portfolio from '../assets/Portfolio.png'
 import SpicyBites from '../assets/SpicyBites.png'
 import Youtube from '../assets/Youtube.png'
 import Supercar from '../assets/Supercar.png'
+import NCSLProject from '../assets/NCSLProject.png' // add screenshot image
 import Cards from './Cards'
 
 const Projects = () => {
@@ -14,6 +15,14 @@ const Projects = () => {
       live: 'https://mohitportfoliousingreact.netlify.app/',
       github: 'https://github.com/mohit01110/mohitPortfolioUsingReact',
     },
+    {
+      title: 'NCSL Website Redesign',
+      desc: 'A modern responsive website developed for the National Centre for School Leadership (NCSL). This website is built on WordPress and features structured navigation, academic repositories, institutional resources, dynamic UI components, and an accessible user-friendly design system.',
+      image: NCSLProject,
+      live: 'https://ncslproject-2409.netlify.app/',
+      github: 'https://github.com/mohit01110/NCSL-WordPress-Frontend',
+    },
+
     {
       title: 'Focus on Today',
       desc: 'Set and track your daily goals to maintain clarity and productivity.Break your tasks into manageable steps for better time management.Break your tasks into manageable steps.',
@@ -43,9 +52,10 @@ const Projects = () => {
         <h2 className="text-3xl font-bold mb-8 text-white border-b border-red-500">
           My Projects
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center gap-10">
-          {projectJson.map((items) => {
-            return <Cards item={items} />
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 items-stretch">
+          {projectJson.map((items, index) => {
+            return <Cards key={index} item={items} />
           })}
         </div>
       </div>
